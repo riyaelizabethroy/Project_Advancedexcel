@@ -20,6 +20,5 @@ How do sales vary by product category and type?
 
 Snap of Dashboard
 
-![DASHBOARD](https://github.com/riyaelizabethroy/Project_Advancedexcel/assets/158080994/468ca240-314b-494a-90db-bd4b07ecfb5f)
 <img width="3194" height="1676" alt="codashboard" src="https://github.com/user-attachments/assets/9669159e-ee1c-462c-b31c-3ff90cba2fcf" />
 
